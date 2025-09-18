@@ -12,11 +12,10 @@ export default function App() {
         <Route path="/" element={<Splash />} />
         <Route path="/home" element={<Home />} />
         <Route path="/register" element={<Register />} />
-        <Route path="/landmark1" element={<Landmark1 />} />
+        <Route path="/landmark1" element={<Landmark1 />} /> 
         <Route path="/landmark2" element={<Landmark2 />} />
-        {/* Add more screens/routes as you define them */}
+       {/* Add more screens/routes as you define them */}
       </Routes>
     </Router>
   );
 }
-

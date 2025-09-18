@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-.env
-.env
-=======
-=======
->>>>>>> 3519a432 (KyU-Konnect routes and screens working)
 # Logs
 logs
 *.log
@@ -29,7 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-<<<<<<< HEAD
->>>>>>> 3519a432 (KyU-Konnect routes and screens working)
-=======
->>>>>>> 3519a432 (KyU-Konnect routes and screens working)
